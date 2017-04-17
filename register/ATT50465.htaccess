@@ -1,0 +1,3 @@
+#Options -indexes #(folder restrictions)
+#Deny from all #(restricts all folders and files)
+
